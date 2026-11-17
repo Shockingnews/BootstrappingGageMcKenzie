@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
+    path: Assets/Scenes/SwitchBetween.unity
+    guid: 6ecf487f94bbbbc4486991973fa13064
+  - enabled: 1
     path: Assets/Scenes/BootstrapperScene.unity
     guid: 94c5f08c316f1e5429a1aeca9e6014d5
   m_configObjects:
